@@ -379,31 +379,31 @@
 // From the machine //
 
 /obj/item/reagent_containers/food/drinks/cans/cola
-	price_tag = 1
+	price_tag = 5
 
 /obj/item/reagent_containers/food/drinks/cans/space_mountain_wind
-	price_tag = 1
+	price_tag = 5
 
 /obj/item/reagent_containers/food/drinks/cans/dr_gibb
-	price_tag = 1
+	price_tag = 5
 
 /obj/item/reagent_containers/food/drinks/cans/starkist
-	price_tag = 1
+	price_tag = 7
 
 /obj/item/reagent_containers/food/drinks/cans/waterbottle
-	price_tag = 2
+	price_tag = 10
 
 /obj/item/reagent_containers/food/drinks/cans/space_up
-	price_tag = 1
+	price_tag = 5
 
 /obj/item/reagent_containers/food/drinks/cans/iced_tea
-	price_tag = 1
+	price_tag = 5
 
 /obj/item/reagent_containers/food/drinks/cans/grape_juice
-	price_tag = 1
+	price_tag = 7
 
 /obj/item/reagent_containers/food/drinks/cans/gingerale
-	price_tag = 1
+	price_tag = 8
 
 //***************//
 //----Bottles----//
@@ -412,34 +412,34 @@
 // Juices, soda and similar //
 
 /obj/item/reagent_containers/food/drinks/bottle/cola
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/space_up
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/space_mountain_wind
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/orangejuice
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/applejuice
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/cream
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/tomatojuice
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/limejuice
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/small/sassafras
-	price_tag = 6
+	price_tag = 12
 
 /obj/item/reagent_containers/food/drinks/bottle/small/sarsaparilla
-	price_tag = 6
+	price_tag = 12
 
 
 // Beer //
@@ -523,34 +523,34 @@
 // Snacks //
 
 /obj/item/reagent_containers/food/snacks/candy
-	price_tag = 1
+	price_tag = 3
 
 /obj/item/reagent_containers/food/snacks/sosjerky
-	price_tag = 2
+	price_tag = 8
 
 /obj/item/reagent_containers/food/snacks/unajerky
 	price_tag = 12
 
 /obj/item/reagent_containers/food/snacks/cheesiehonkers
-	price_tag = 1
+	price_tag = 6
 
 /obj/item/reagent_containers/food/snacks/tastybread
-	price_tag = 2
+	price_tag = 6
 
 /obj/item/reagent_containers/food/snacks/no_raisin
-	price_tag = 1
+	price_tag = 12
 
 /obj/item/reagent_containers/food/snacks/spacetwinkie
-	price_tag = 1
+	price_tag = 6
 
 /obj/item/reagent_containers/food/snacks/skrellsnacks
-	price_tag = 4
+	price_tag = 12
 
 /obj/item/reagent_containers/food/snacks/chips
-	price_tag = 1
+	price_tag = 5
 
 /obj/item/reagent_containers/food/drinks/dry_ramen
-	price_tag = 5
+	price_tag = 10
 
 
 // Burger //
